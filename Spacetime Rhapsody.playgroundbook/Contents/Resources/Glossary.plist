@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>neutron</key>
+		<dict>
+			<key>Definition</key>
+			<string>A neutron star is the collapsed core of a large (10–29 solar masses) star. Neutron stars are the smallest and densest stars known to exist. (from Wikipedia) Neutron stars have enormous mass.</string>
+		</dict>
+		<key>spacetime</key>
+		<dict>
+			<key>Definition</key>
+			<string>Spacetime is any mathematical model that combines space and time into a single interwoven continuum. (from Wikipedia)</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
