@@ -51,8 +51,6 @@ It might take a few tries to make a planet orbiting but you’ll get the hang of
 
 ## References
 
-References
-
 Visuals:
  Sun Texture
  Venus Texture
